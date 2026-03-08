@@ -169,4 +169,4 @@ The implementation avoids external ML frameworks in order to keep the learning p
 
 # Author
 
-Filip
+Filip Pantić
